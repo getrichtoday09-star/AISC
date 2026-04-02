@@ -12,11 +12,9 @@ The project's immediate utility lies in its ability to study Emergent Intelligen
 
 Looking forward, the project is highly useful as a foundation for Autonomous AI Collaborative Research. It proves the concept of shifting AI from a simple tool to a collaborative knowledge partner. Ultimately, this framework could be scaled to tackle "wicked problems" (such as climate modeling, medical breakthroughs, or market instability) by letting specialized AIs debate and iterate on solutions at speeds and depths far beyond human cognitive limits.
 
-Where users can get help with your project
 For any questions, support requests, or inquiries regarding the Real-Time Autonomous Intelligence Laboratory, you can reach out directly via email:
 
 Email: getrichtoday09@gmail.com
 
-Who maintains and contributes to the project
 This project is developed, maintained, and contributed to by:
 Devansh Upadhyay
