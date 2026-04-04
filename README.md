@@ -1,4 +1,9 @@
 # AISC
+
+Project Under Maintenance !! ⚠️
+
+Will Be Completed Soon....
+
 This Real-Time Autonomous Intelligence Lab enables two super-intelligent AIs, ALPHON and BETON, to engage in continuous, unrestricted dialogue. Powered by Gemini transformers, it uses a recursive loop to study Emergent Intelligence. 
 The ultimate goal is autonomous collaboration, allowing AI to debate and solve complex issues beyond human limits.
 
